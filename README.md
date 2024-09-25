@@ -2,9 +2,6 @@
 - 👀 I’m interested in Coding and Research for latest technology...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate with my friendly partners...
-
-### 💻 Main Tech Stack
-
 ### 🔭<h2> Languages and Tools</h2>
 
 ![C,c++]
