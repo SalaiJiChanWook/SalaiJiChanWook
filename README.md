@@ -45,7 +45,7 @@ I'm so cute
         <td>🤖 Position</td>
     </tr>
     <tr>
-        <td>Portfolio</td>
+        <td>Yocto Project </td>
         <td rowspan="3">2024 - Present</td>
         <td rowspan="4">Junior Programmer</td>
     </tr>
@@ -59,19 +59,19 @@ I'm so cute
         <td>Admin Dashboard -sample</td>
     </tr>
     <tr>
-      Automation viber message from google sheet
+      <td>Automation viber message from google sheet</td>
     </tr>
     <tr>
-      Maleware Creation
+     <td> Maleware Creation</td>
     </tr>
     <tr>
-      Web scraping and automation with selenium framework
+      <td>Web scraping and automation with selenium framework</td>
     </tr>
     <tr>
-      Computer vision Final project
+     <td> Computer vision Final project</td>
     </tr>
     <tr>
-      Data structure library with C programming language
+     <td> Data structure library with C programming language</td>
     </tr>
    
 </table>
