@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ![D-jango]([https://img.shields.io/pypi/pyversions/Django?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600](https://img.shields.io/pypi/pyversions/Django?pypiBaseUrl=https%3A%2F%2Fpypi.org&style=social&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EDjango%3C%2Ftitle%3E%3Cpath%20d%3D%22M11.146%200h3.924v18.166c-2.013.382-3.491.535-5.096.535-4.791%200-7.288-2.166-7.288-6.32%200-4.002%202.65-6.6%206.753-6.6.637%200%201.121.05%201.707.203zm0%209.143a3.894%203.894%200%2000-1.325-.204c-1.988%200-3.134%201.223-3.134%203.365%200%202.09%201.096%203.236%203.109%203.236.433%200%20.79-.025%201.35-.102V9.142zM21.314%206.06v9.098c0%203.134-.229%204.638-.917%205.937-.637%201.249-1.478%202.039-3.211%202.905l-3.644-1.733c1.733-.815%202.574-1.53%203.109-2.625.561-1.121.739-2.421.739-5.835V6.059h3.924zM17.39.021h3.924v4.026H17.39z%22%2F%3E%3C%2Fsvg%3E&logoColor=%23092E20&logoSize=auto&label=D-jango&labelColor=%23092E20&color=fedcba&cacheSeconds=3600
-))
+)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
