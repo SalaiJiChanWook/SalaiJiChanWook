@@ -12,6 +12,8 @@
 
 ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)
 
+![Python](https://img.shields.io/pypi/pyversions/Django?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/mongo-%233572A0.svg?style=for-the-badge&logo=mongodb&logoColor=white)
