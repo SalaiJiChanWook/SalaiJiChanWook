@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate with my friendly partners...
 ### 🔭<h2> Languages and Tools</h2>
 
-![C](https://img.shields.io/badge/c-%233572A0.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![C++](https://img.shields.io/badge/c-%233572A0.svg?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
