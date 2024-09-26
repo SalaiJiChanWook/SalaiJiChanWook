@@ -25,6 +25,9 @@
 ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
+![Numpy](https://img.shields.io/badge/numpy-%233572A0.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
 ![D-jango](https://img.shields.io/badge/django-%233572A0.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
