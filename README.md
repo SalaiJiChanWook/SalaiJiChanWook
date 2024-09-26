@@ -6,17 +6,33 @@
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+
+![Yocto](https://img.shields.io/badge/yocto-%2300599C.svg?style=for-the-badge&logo=yocto&logoColor=white)
+
+
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Embedded](https://img.shields.io/badge/embedded%2B%2B-%2300599C.svg?style=for-the-badge&logo=embedded%2B%2B&logoColor=white)
+
+
+![C#](https://img.shields.io/badge/c-sharp%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+![C#](https://img.shields.io/badge/asp.net%23-%23239120.svg?style=for-the-badge&logo=asp.net&logoColor=white)
+
 
 ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)
 
+
 ![D-jango](https://img.shields.io/badge/django-%233572A0.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+
 ![MongoDB](https://img.shields.io/badge/mongo-%233572A0.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
