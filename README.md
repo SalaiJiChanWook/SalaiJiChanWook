@@ -28,6 +28,12 @@
 ![Numpy](https://img.shields.io/badge/numpy-%233572A0.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
+![Pandas](https://img.shields.io/badge/pandas-%233572A0.svg?style=for-the-badge&logo=pands&logoColor=white)
+
+
+![matplotlib](https://img.shields.io/badge/matplotlib-%233572A0.svg?style=for-the-badge&logo=matplolib&logoColor=white)
+
+
 ![D-jango](https://img.shields.io/badge/django-%233572A0.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
