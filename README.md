@@ -37,6 +37,9 @@
 ![D-jango](https://img.shields.io/badge/django-%233572A0.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
+![React](https://img.shields.io/badge/react-%233572A0.svg?style=for-the-badge&logo=react&logoColor=white)
+
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
