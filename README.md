@@ -54,7 +54,7 @@
 
 ### 🔥🤖 About me
 
-I'm so cute 
+I'm so cute and I can't believe I can fly.
 
 ### 🌱🦖 My Work & Achievements
 
