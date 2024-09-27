@@ -43,7 +43,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-![MongoDB](https://img.shields.io/badge/mongo-%233572A0.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongo-%23239120.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
