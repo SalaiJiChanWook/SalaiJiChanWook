@@ -46,6 +46,9 @@
 ![MongoDB](https://img.shields.io/badge/mongo-%23239120.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+![AWS](https://img.shields.io/badge/aws-%#FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
+
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
