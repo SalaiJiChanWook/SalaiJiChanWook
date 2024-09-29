@@ -48,6 +48,8 @@
 
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+![LINUX](https://img.shields.io/badge/linux-%23FF9900.svg?style=for-the-badge&logo=amazon-linux&logoColor=white)
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
