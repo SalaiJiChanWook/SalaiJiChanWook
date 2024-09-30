@@ -56,11 +56,11 @@
 
 ### 🔥🤖 About me
 
-I'm so cute and I can't believe I can fly.
+Self-learning programmer
 
 ### 🌱🦖 My Work & Achievements
 
-`Ma Ma HSS`
+`-`
 
 ### 📫 Reach me on
 
