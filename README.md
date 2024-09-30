@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate with my friendly partners...
 ### 🔭<h2> Languages and Tools</h2>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Yocto](https://img.shields.io/badge/yocto-%2300599C.svg?style=for-the-badge&logo=yocto&logoColor=white)
 
 
-![Yocto](https://img.shields.io/badge/yocto-%2300599C.svg?style=for-the-badge&logo=yocto&logoColor=white)
 
 
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 
 ![Embedded](https://img.shields.io/badge/embedded%2B%2B-%2300599C.svg?style=for-the-badge&logo=embedded%2B%2B&logoColor=white)
