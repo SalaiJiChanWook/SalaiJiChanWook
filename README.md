@@ -68,7 +68,7 @@ Self-learning programmer
      <td> UserRegistrationForm</td>
     </tr>
      <tr>
-     <td> WebApiDemo/td>
+     <td> WebApiDemo</td>
     </tr>
     
    
