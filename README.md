@@ -12,6 +12,7 @@
 ### 🔥🤖 About me
 
 Self-learning programmer
+Ability to learn the new technologies
 
 ### 🌱🦖 My Work & Achievements
 
