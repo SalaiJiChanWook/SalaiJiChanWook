@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate with my friendly partners...
 # SalaiJiChanWook - ComputerScience Student
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook" alt="SalaiJiChanWook" /></a> </p>
+
+
 [![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook)
 
 
