@@ -10,11 +10,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook" alt="SalaiJiChanWook" /></a> </p>
 
 
-<div>[![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook)</div>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact" alt="SalaiJiChanWook" /></div>
+<p> [![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook) </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact" alt="SalaiJiChanWook" /> </p>
+<br/>
 
 
-### 🔭<h2> Languages and Tools</h2>
+## 🔭<h2> Languages and Tools</h2>
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Yocto](https://img.shields.io/badge/yocto-%2300599C.svg?style=for-the-badge&logo=yocto&logoColor=white)  ![Embedded](https://img.shields.io/badge/embedded%2B%2B-%2300599C.svg?style=for-the-badge&logo=embedded%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c-sharp%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)   ![Numpy](https://img.shields.io/badge/numpy-%233572A0.svg?style=for-the-badge&logo=numpy&logoColor=white)    ![Pandas](https://img.shields.io/badge/pandas-%233572A0.svg?style=for-the-badge&logo=pands&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/matplotlib-%233572A0.svg?style=for-the-badge&logo=matplolib&logoColor=white)    ![D-jango](https://img.shields.io/badge/django-%233572A0.svg?style=for-the-badge&logo=django&logoColor=white)    ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![MongoDB](https://img.shields.io/badge/mongo-%23239120.svg?style=for-the-badge&logo=mongodb&logoColor=white)    ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)    
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
