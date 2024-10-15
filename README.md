@@ -9,8 +9,8 @@
 >> Current work and achivements on Github
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook" alt="SalaiJiChanWook" /></a> </p>
 
-<div>
-[![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact" alt="SalaiJiChanWook" /></div>
+
+[![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook) <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact" alt="SalaiJiChanWook" /></div>
 
 
 ### 🔭<h2> Languages and Tools</h2>
