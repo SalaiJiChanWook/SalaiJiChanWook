@@ -10,7 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook" alt="SalaiJiChanWook" /></a> </p>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact" alt="SalaiJiChanWook" /> </p>
- [![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook) 
+
+[![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook) 
 
 <br/>
 
