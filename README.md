@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate with my friendly partners...
 # SalaiJiChanWook - ComputerScience Student
 
+
+### 🌱🦖 My Work & Achievements
+>> Current work and achivements on Github
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook" alt="SalaiJiChanWook" /></a> </p>
 
 
@@ -26,10 +29,6 @@
 
 Self-learning programmer
 Ability to learn the new technologies
-
-### 🌱🦖 My Work & Achievements
-
-`-`
 
 ### 📫 Reach me on
 
