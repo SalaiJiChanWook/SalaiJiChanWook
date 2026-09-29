@@ -54,7 +54,7 @@ Ability to learn the new technologies
     <tr>
         <td>Yocto Project </td>
         <td rowspan="3">2024 - Present</td>
-        <td rowspan="4">Junior Programmer</td>
+        <td rowspan="4">Freelance</td>
     </tr>
     <tr>
         <td>Banking System with AVL Tree</td>
