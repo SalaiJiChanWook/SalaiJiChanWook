@@ -42,6 +42,9 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 ---
 
@@ -52,6 +55,11 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 * **Tech Stack:** `Python`, `Selenium`, `Google Drive API v3`, `ttkbootstrap`
 * **Description:** An enterprise desktop utility that automates multi-course academic dataset harvesting with dynamic waiting mechanisms and provides unattended, encrypted synchronization to Google Drive storage via Service Account credentials.
 * **Key Achievements:** Eliminated manual grading export routines; implemented headless cloud authorization without recurring token expiry.
+  
+### 2. [ESP32 Servo Controller via WiFi Hotspot](https://github.com/SalaiJiChanWook/SalaiJiChanWook-Esp32_Servo_with_WiFi_hotspot)
+* **Tech Stack:** `C/C++`, `ESP32`, `Embedded Systems`, `IoT`, `WiFi SoftAP`
+* **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
+* **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
 
 <!-- 💡 [နောက်ထပ် အဓိက PROJECT အသစ်များ ထပ်ထည့်ရန် ဤနေရာတွင် Template ကူးထည့်ပါ] -->
 <!--
@@ -68,6 +76,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 | Project Name | Domain / Tech Stack | Timeline | Role |
 | :--- | :--- | :---: | :--- |
 | **LMS Dataset Automation Suite** | Python, Selenium, Google Cloud Drive API | 2026 | Developer |
+| **ESP32 Servo Controller (WiFi AP)** | ESP32, C/C++, Embedded IoT, WebServer | 2024 | Embedded Dev |
 | **Yocto Embedded Linux System** | Embedded Systems, Yocto, Linux Kernel | 2024 – 2025 | Systems Dev |
 | **Banking System with AVL Tree** | C/C++, Algorithms & Data Structures | 2024 | Core Dev |
 | **Banking System (CLI Architecture)** | C Programming, Memory Management | 2023 | Developer |
