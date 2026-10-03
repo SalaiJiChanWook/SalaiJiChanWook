@@ -1,99 +1,95 @@
-- 👋 Hi, I’m @Salai
-- 👀 I’m interested in Coding and Research for latest technology...
-- 🌱 I’m currently learning for new technology...
-- 💞️ I’m looking to collaborate with my friendly partners...
-# SalaiJiChanWook  `Back-end Developer`
+# 👋 Hi, I'm Salai (@SalaiJiChanWook)
+### 🚀 Software Engineer & Automation Developer
 
+Experienced developer with **4+ years of hands-on experience (since 2022)** in building desktop automation tools, backend APIs, and systems engineering. Passionate about automated workflows, cloud integrations, and performance-driven software architecture.
 
-### 🌱🦖 My Work & Achievements
->> Current work and achivements on Github
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook" alt="SalaiJiChanWook" /></a> </p>
+- 🔭 **Current Focus:** Desktop Automation, Cloud Sync Architecture, and Scalable Backend Systems.
+- 🌱 **Core Strength:** Rapid self-learning, end-to-end problem solving, and production-ready automation.
+- 💬 **Ask me about:** Python, C/C++, Selenium, Google Cloud APIs, and System Administration.
+- ⚡ **Career Journey:** Actively developing real-world software solutions and security-focused utilities since 2022.
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact" alt="SalaiJiChanWook" /> </p>
+---
 
-[![SalaiJiChanWook's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalaiJiChanWook)](https://github.com/SalaiJiChanWook) 
+### 🏆 GitHub Achievements & Stats
 
-<br/>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SalaiJiChanWook&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
+  </a>
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaiJiChanWook&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalaiJiChanWook&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-## 🔭<h2> Languages and Tools</h2>
+---
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Yocto](https://img.shields.io/badge/yocto-%2300599C.svg?style=for-the-badge&logo=yocto&logoColor=white)  ![Embedded](https://img.shields.io/badge/embedded%2B%2B-%2300599C.svg?style=for-the-badge&logo=embedded%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c-sharp%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)   ![Numpy](https://img.shields.io/badge/numpy-%233572A0.svg?style=for-the-badge&logo=numpy&logoColor=white)    ![Pandas](https://img.shields.io/badge/pandas-%233572A0.svg?style=for-the-badge&logo=pands&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/matplotlib-%233572A0.svg?style=for-the-badge&logo=matplolib&logoColor=white)    ![D-jango](https://img.shields.io/badge/django-%233572A0.svg?style=for-the-badge&logo=django&logoColor=white)    ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)    ![MongoDB](https://img.shields.io/badge/mongo-%23239120.svg?style=for-the-badge&logo=mongodb&logoColor=white)    ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)    
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+## 🛠️ Languages, Frameworks & Tools
 
+**Languages & Systems:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+**Automation, Frameworks & Cloud:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-### 🔥🤖 About me
+## 🌟 Featured Engineering Projects
+*(အလုပ်လျှောက်ရာတွင် အဓိကပြသမည့် Showcase Projects များ)*
 
-Self-learning programmer
-Ability to learn the new technologies
+### 1. [LMS Dataset Automation Suite](https://github.com/SalaiJiChanWook/lms-dataset-automation-suite)
+* **Tech Stack:** `Python`, `Selenium`, `Google Drive API v3`, `ttkbootstrap`
+* **Description:** An enterprise desktop utility that automates multi-course academic dataset harvesting with dynamic waiting mechanisms and provides unattended, encrypted synchronization to Google Drive storage via Service Account credentials.
+* **Key Achievements:** Eliminated manual grading export routines; implemented headless cloud authorization without recurring token expiry.
 
-### 📫 Reach me on
+<!-- 💡 [နောက်ထပ် အဓိက PROJECT အသစ်များ ထပ်ထည့်ရန် ဤနေရာတွင် Template ကူးထည့်ပါ] -->
+<!--
+### 2. [Project Name Here](Link to repository)
+* **Tech Stack:** `Language`, `Framework`, `Database`
+* **Description:** Project က ဖြေရှင်းပေးလိုက်တဲ့ အဓိက ပြဿနာနှင့် လုပ်ဆောင်ချက် အကျဉ်းချုပ်။
+* **Key Achievements:** ဘယ်လောက်မြန်ဆန်သွားသလဲ သို့မဟုတ် ဘာတွေ တီထွင်ထားသလဲ။
+-->
 
-<a href="#" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="" height="40" width="40" />
-</a>
+---
 
-<a href="#" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="" height="40" width="40" />
-</a>
+## 📂 Project Archive (2022 – Present)
 
-### 🦾 Projects
+| Project Name | Domain / Tech Stack | Timeline | Role |
+| :--- | :--- | :---: | :--- |
+| **LMS Dataset Automation Suite** | Python, Selenium, Google Cloud Drive API | 2026 | Developer |
+| **Yocto Embedded Linux System** | Embedded Systems, Yocto, Linux Kernel | 2024 – 2025 | Systems Dev |
+| **Banking System with AVL Tree** | C/C++, Algorithms & Data Structures | 2024 | Core Dev |
+| **Banking System (CLI Architecture)** | C Programming, Memory Management | 2023 | Developer |
+| **Automated Viber Messenger** | Python, Google Sheets API, Messaging Bot | 2023 | Automation Dev |
+| **Security Research & Analysis Tool** | Malware Engineering & Analysis Research | 2023 | Security Dev |
+| **Web Scraping & Extraction Engine**| Python, Selenium, XPath Parsers | 2023 | Engineer |
+| **Computer Vision Analytics** | OpenCV, Python, Image Processing | 2022 | ML Dev |
+| **Custom Data Structure Library** | C Language, Pointer Arithmetics | 2022 | Core Dev |
+| **RESTful Web API Service** | C# / ASP.NET, SQL Database | 2022 | Backend Dev |
+| **Telegram Automation Bot** | Python, Telegram Bot API, Webhooks | 2022 | Developer |
 
-<table>
-    <tr>
-        <td>🚀 Project Name</td>
-        <td>⭐ Year</td>
-        <td>🤖 Position</td>
-    </tr>
-    <tr>
-        <td>Yocto Project </td>
-        <td rowspan="3">2024 - Present</td>
-        <td rowspan="4">Freelance</td>
-    </tr>
-    <tr>
-        <td>Banking System with AVL Tree</td>
-    </tr>
-    <tr>
-        <td>Bank System with C program</td>
-    </tr>
-    <tr>
-        <td>Admin Dashboard -sample</td>
-    </tr>
-    <tr>
-      <td>Automation viber message from google sheet</td>
-    </tr>
-    <tr>
-     <td> Maleware Creation</td>
-    </tr>
-    <tr>
-      <td>Web scraping and automation with selenium framework</td>
-    </tr>
-    <tr>
-     <td> Computer vision Final project</td>
-    </tr>
-    <tr>
-     <td> Data structure library with C programming language</td>
-    </tr>
-     <tr>
-     <td> UserRegistrationForm</td>
-    </tr>
-     <tr>
-     <td> WebApiDemo</td>
-    </tr>
-     <tr>
-     <td> Telegram Bot</td>
-    </tr>
-    
-   
-</table>
+<!-- 💡 အထက်ပါ Table ထဲသို့ နောက်ထပ် project အသစ်ထည့်လိုပါက အပေါ်ဆုံး row အောက်တွင် စာကြောင်းအသစ် ထပ်ရိုက်ထည့်ရပါမယ်နော် ဘေပီ -->
 
-<!---
-SalaiJiChanWook/SalaiJiChanWook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:pentesterase@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SalaiJiChanWook">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
