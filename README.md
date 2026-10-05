@@ -85,7 +85,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 | **Banking System (CLI Architecture)** | C Programming, Memory Management | 2023 | Developer |
 | **Automated Viber Messenger** | Python, Google Sheets API, Messaging Bot | 2023 | Automation Dev |
 | **Security Research & Analysis Tool** | Malware Engineering & Analysis Research | 2023 | Security Dev |
-| **Web Scraping & Extraction Engine**| Python, Selenium, XPath Parsers | 2023 | Engineer |
+| **Web Scraping & Extraction Engine**| Python, Selenium, XPath Parsers | 2023-current | Engineer |
 | **Computer Vision Analytics** | OpenCV, Python, Image Processing | 2022 | ML Dev |
 | **Custom Data Structure Library** | C Language, Pointer Arithmetics | 2022 | Core Dev |
 | **RESTful Web API Service** | C# / ASP.NET, SQL Database | 2022 | Backend Dev |
