@@ -49,7 +49,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 ---
 
 ## 🌟 Featured Engineering Projects
-*(အလုပ်လျှောက်ရာတွင် အဓိကပြသမည့် Showcase Projects များ)*
+*(Showcase Projects)*
 
 ### 1. [LMS Dataset Automation Suite](https://github.com/SalaiJiChanWook/lms-dataset-automation-suite)
 * **Tech Stack:** `Python`, `Selenium`, `Google Drive API v3`, `ttkbootstrap`
