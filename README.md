@@ -33,6 +33,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Automation, Frameworks & Cloud:**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -80,6 +81,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 | **ESP32 Servo Controller (WiFi AP)** | ESP32, C/C++, Embedded IoT, WebServer | 2024 | Embedded Dev |
 | **Yocto Embedded Linux System** | Embedded Systems, Yocto, Linux Kernel | 2024 – 2025 | Systems Dev |
 | **Banking System with AVL Tree** | C/C++, Algorithms & Data Structures | 2024 | Core Dev |
+| **Interactive Web Application** | JavaScript (ES6+), HTML5, CSS3, DOM | 2025 | React Dev |
 | **Banking System (CLI Architecture)** | C Programming, Memory Management | 2023 | Developer |
 | **Automated Viber Messenger** | Python, Google Sheets API, Messaging Bot | 2023 | Automation Dev |
 | **Security Research & Analysis Tool** | Malware Engineering & Analysis Research | 2023 | Security Dev |
