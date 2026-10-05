@@ -45,6 +45,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internet-of-things&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -87,6 +88,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 | **Custom Data Structure Library** | C Language, Pointer Arithmetics | 2022 | Core Dev |
 | **RESTful Web API Service** | C# / ASP.NET, SQL Database | 2022 | Backend Dev |
 | **Telegram Automation Bot** | Python, Telegram Bot API, Webhooks | 2022 | Developer |
+| **Raspberry Pi Local Server** | Linux, Raspberry Pi, LAMP Stack, Networking | 2022 | System Admin |
 
 <!-- 💡 အထက်ပါ Table ထဲသို့ နောက်ထပ် project အသစ်ထည့်လိုပါက အပေါ်ဆုံး row အောက်တွင် စာကြောင်းအသစ် ထပ်ရိုက်ထည့်ရပါမယ်နော် ဘေပီ -->
 
