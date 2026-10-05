@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Salai (@SalaiJiChanWook)
 ### 🚀 Software Engineer & Automation Developer
 
-Experienced developer with **4+ years of hands-on experience (since 2022)** in building desktop automation tools, backend APIs, and systems engineering. Passionate about automated workflows, cloud integrations, and performance-driven software architecture.
+Experienced developer with **4+ years of hands-on experience (since 2022)** in building desktop automation tools, backend APIs, and systems engineering. Passionate about automated workflows, cloud integrations, Embedded System, Robotics, AI (Computer Vision) and performance-driven software architecture.
 
-- 🔭 **Current Focus:** Desktop Automation, Cloud Sync Architecture, and Scalable Backend Systems.
+- 🔭 **Current Focus:** Desktop Automation, Cloud Sync Architecture, Robotics, AI(Open CV) and Scalable Backend Systems.
 - 🌱 **Core Strength:** Rapid self-learning, end-to-end problem solving, and production-ready automation.
 - 💬 **Ask me about:** Python, C/C++, Selenium, Google Cloud APIs, and System Administration.
 - ⚡ **Career Journey:** Actively developing real-world software solutions and security-focused utilities since 2022.
