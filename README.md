@@ -27,16 +27,14 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 
 ## 🛠️ Languages, Frameworks & Tools
 
-**Languages & Systems:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages & Systems:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Automation, Frameworks & Cloud:**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+**Automation, Frameworks & Cloud:** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -53,23 +51,20 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 ## 🌟 Featured Engineering Projects
 *(Showcase Projects)*
 
-### 1. [LMS Dataset Automation Suite](https://github.com/SalaiJiChanWook/lms-dataset-automation-suite)
-* **Tech Stack:** `Python`, `Selenium`, `Google Drive API v3`, `ttkbootstrap`
-* **Description:** An enterprise desktop utility that automates multi-course academic dataset harvesting with dynamic waiting mechanisms and provides unattended, encrypted synchronization to Google Drive storage via Service Account credentials.
-* **Key Achievements:** Eliminated manual grading export routines; implemented headless cloud authorization without recurring token expiry.
-  
-### 2. [ESP32 Servo Controller via WiFi Hotspot](https://github.com/SalaiJiChanWook/SalaiJiChanWook-Esp32_Servo_with_WiFi_hotspot)
-* **Tech Stack:** `C/C++`, `ESP32`, `Embedded Systems`, `IoT`, `WiFi SoftAP`
-* **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
-* **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
+### 1. [mlbb-shop-bot](https://github.com/SalaiJiChanWook/mlbb-shop-bot)
+- **Tech Stack:** `Python`, `Telegram Bot API`, `Google Gemini API`
+- **Description:** A Telegram bot designed for Mobile Legends: Bang Bang (MLBB) shop transactions, integrating automated payment verification (KPay/WavePay workflows) and AI-driven features.
+- **Key Achievements:** Streamlined automated digital goods shop order processing and simplified user credential/payment tracking via Telegram interface.
 
-<!-- 💡 [နောက်ထပ် အဓိက PROJECT အသစ်များ ထပ်ထည့်ရန် ဤနေရာတွင် Template ကူးထည့်ပါ] -->
-<!--
-### 2. [Project Name Here](Link to repository)
-* **Tech Stack:** `Language`, `Framework`, `Database`
-* **Description:** Project က ဖြေရှင်းပေးလိုက်တဲ့ အဓိက ပြဿနာနှင့် လုပ်ဆောင်ချက် အကျဉ်းချုပ်။
-* **Key Achievements:** ဘယ်လောက်မြန်ဆန်သွားသလဲ သို့မဟုတ် ဘာတွေ တီထွင်ထားသလဲ။
--->
+### 2. [LMS Dataset Automation Suite](https://github.com/SalaiJiChanWook/lms-dataset-automation-suite)
+- **Tech Stack:** `Python`, `Selenium`, `Google Drive API v3`, `ttkbootstrap`
+- **Description:** An enterprise desktop utility that automates multi-course academic dataset harvesting with dynamic waiting mechanisms and provides unattended, encrypted synchronization to Google Drive storage via Service Account credentials.
+- **Key Achievements:** Eliminated manual grading export routines; implemented headless cloud authorization without recurring token expiry.
+  
+### 3. [ESP32 Servo Controller via WiFi Hotspot](https://github.com/SalaiJiChanWook/SalaiJiChanWook-Esp32_Servo_with_WiFi_hotspot)
+- **Tech Stack:** `C/C++`, `ESP32`, `Embedded Systems`, `IoT`, `WiFi SoftAP`
+- **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
+- **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
 
 ---
 
@@ -77,6 +72,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 
 | Project Name | Domain / Tech Stack | Timeline | Role |
 | :--- | :--- | :---: | :--- |
+| **mlbb-shop-bot** | Python, Telegram Bot API, Gemini API | 2026 | Developer |
 | **LMS Dataset Automation Suite** | Python, Selenium, Google Cloud Drive API | 2026 | Developer |
 | **ESP32 Servo Controller (WiFi AP)** | ESP32, C/C++, Embedded IoT, WebServer | 2024 | Embedded Dev |
 | **Yocto Embedded Linux System** | Embedded Systems, Yocto, Linux Kernel | 2024 – 2025 | Systems Dev |
@@ -92,14 +88,12 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 | **Telegram Automation Bot** | Python, Telegram Bot API, Webhooks | 2022 | Developer |
 | **Raspberry Pi Local Server** | Linux, Raspberry Pi, LAMP Stack, Networking | 2022 | System Admin |
 
-<!-- 💡 အထက်ပါ Table ထဲသို့ နောက်ထပ် project အသစ်ထည့်လိုပါက အပေါ်ဆုံး row အောက်တွင် စာကြောင်းအသစ် ထပ်ရိုက်ထည့်ရပါမယ်နော် ဘေပီ -->
-
 ---
 
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:pentesterase@gmail.com">
+  <a href="uchiasadara6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/SalaiJiChanWook">
