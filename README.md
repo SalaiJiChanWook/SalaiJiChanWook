@@ -71,6 +71,12 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 - **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
 - **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
 - --
+### 5. [Offline Edge Digital Library & LMS](https://github.com/SalaiJiChanWook/offline-edge-library-rpi5)
+- **Tech Stack:** `Raspberry Pi 5`, `LAMP Stack (Apache, MariaDB, PHP 8.2)`, `Bash`, `Docker`, `Hostapd / DNSMasq`
+- **Description:** A resilient, low-power edge-computing infrastructure built on a Raspberry Pi 5 to deliver offline digital library archives and LMS capabilities to remote, off-grid communities lacking internet connectivity. Features an automated provisioning stack, custom captive network resolution (`library.local`), and throughput-tuned storage permissions.
+- **Key Achievements:** 
+  - Engineered zero-bandwidth educational accessibility by transforming single-board hardware into a standalone Wi-Fi Access Point and local application server.
+  - Optimized PHP memory and upload constraints (`1024M` post/upload buffers) to support concurrent offline multimedia distribution and large bundle course restorations.
 
 ## 📂 Project Archive (2022 – Present)
 
@@ -90,7 +96,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 | **Custom Data Structure Library** | C Language, Pointer Arithmetics | 2022 | Core Dev |
 | **RESTful Web API Service** | C# / ASP.NET, SQL Database | 2022 | Backend Dev |
 | **Telegram Automation Bot** | Python, Telegram Bot API, Webhooks | 2022 | Developer |
-| **Raspberry Pi Local Server** | Linux, Raspberry Pi, LAMP Stack, Networking | 2022 | System Admin |
+| **Raspberry Pi Local Server** | Linux, Raspberry Pi, LAMP Stack, Networking | 2022 - current | System Admin |
 
 ---
 
