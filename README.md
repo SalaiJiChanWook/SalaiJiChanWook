@@ -66,7 +66,7 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 - **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
 - **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
 - 
-### 3. 🎓 [EdgeAI Smart Attendance System](https://github.com/SalaiJiChanWook/smart_attendance_system)
+### 4. 🎓 [EdgeAI Smart Attendance System](https://github.com/SalaiJiChanWook/smart_attendance_system)
 > **Offline-first real-time face recognition attendance system** powered by ESP32-CAM, Raspberry Pi, MTCNN, FaceNet + SVM, Django REST Framework, and React.
 * **Tech Stack:** Python, OpenCV, TensorFlow/FaceNet, Scikit-learn, Django REST, React, Vite, Tailwind CSS, SQLite, IoT (ESP32).
 * **Key Achievements:** Built a complete headless edge inferencing pipeline (~115ms/frame) with automatic duplicate prevention, offline Excel backups, background Google Sheets cloud sync, and a responsive web monitoring dashboard.
