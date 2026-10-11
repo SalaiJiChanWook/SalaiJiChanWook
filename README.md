@@ -60,17 +60,17 @@ Experienced developer with **4+ years of hands-on experience (since 2022)** in b
 - **Tech Stack:** `Python`, `Selenium`, `Google Drive API v3`, `ttkbootstrap`
 - **Description:** An enterprise desktop utility that automates multi-course academic dataset harvesting with dynamic waiting mechanisms and provides unattended, encrypted synchronization to Google Drive storage via Service Account credentials.
 - **Key Achievements:** Eliminated manual grading export routines; implemented headless cloud authorization without recurring token expiry.
-  
-### 3. [ESP32 Servo Controller via WiFi Hotspot](https://github.com/SalaiJiChanWook/SalaiJiChanWook-Esp32_Servo_with_WiFi_hotspot)
-- **Tech Stack:** `C/C++`, `ESP32`, `Embedded Systems`, `IoT`, `WiFi SoftAP`
-- **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
-- **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
 - 
-### 4. 🎓 [EdgeAI Smart Attendance System](https://github.com/SalaiJiChanWook/smart_attendance_system)
+### 3. 🎓 [EdgeAI Smart Attendance System](https://github.com/SalaiJiChanWook/smart_attendance_system)
 > **Offline-first real-time face recognition attendance system** powered by ESP32-CAM, Raspberry Pi, MTCNN, FaceNet + SVM, Django REST Framework, and React.
 * **Tech Stack:** Python, OpenCV, TensorFlow/FaceNet, Scikit-learn, Django REST, React, Vite, Tailwind CSS, SQLite, IoT (ESP32).
 * **Key Achievements:** Built a complete headless edge inferencing pipeline (~115ms/frame) with automatic duplicate prevention, offline Excel backups, background Google Sheets cloud sync, and a responsive web monitoring dashboard.
 ---
+### 4. [ESP32 Servo Controller via WiFi Hotspot](https://github.com/SalaiJiChanWook/SalaiJiChanWook-Esp32_Servo_with_WiFi_hotspot)
+- **Tech Stack:** `C/C++`, `ESP32`, `Embedded Systems`, `IoT`, `WiFi SoftAP`
+- **Description:** An embedded IoT utility that configures an ESP32 microcontroller as a standalone local Access Point (WiFi Hotspot) and web server, enabling real-time servo motor angle actuation directly from any connected mobile or desktop browser without external network dependencies.
+- **Key Achievements:** Implemented zero-configuration standalone network control; optimized PWM duty-cycle signal timing for smooth micro-servo calibration and response.
+- --
 
 ## 📂 Project Archive (2022 – Present)
 
